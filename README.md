@@ -50,5 +50,6 @@
    학생 : http://54.180.120.96:8080/cbh/student/login/student_LoginPage
 
    직원 : http://54.180.120.96:8080/cbh/staff/login/staff_LoginPage
+   
    직원 Test ID : staff02
    직원 Test PW : 2
